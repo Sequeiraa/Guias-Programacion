@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+92
+Diagrama para obtener el salario neto de un empleado a partir de horas trabajadas en el mes.
+4
+1
+31
+'Digite el nombre del empleado'
+5
+1
+6
+Nombre
+4
+1
+29
+'Digite las horas trabajadas'
+5
+1
+5
+Horas
+4
+1
+25
+'Digite la paga por hora'
+5
+1
+4
+Paga
+6
+3
+2
+SN
+10
+Horas*Paga
+9
+Descuento
+9
+SN*15/100
+2
+SD
+13
+SN-Descuento 
+4
+1
+38
+'El nombre del empleado es: ' , Nombre
+4
+1
+39
+'Las horas trabajadas fueron: ' , Horas
+4
+1
+33
+'El salario nominal es de: ' , SN
+4
+1
+41
+'El descuento del 15% es de: ', Descuento
+4
+1
+39
+'El salario neto devengado es de: ', SD
+1
